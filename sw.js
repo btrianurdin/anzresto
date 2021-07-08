@@ -7,7 +7,6 @@ var serviceWorkerOption = {
     "/main~29d6ecf2.bundle.js",
     "/main~3d9b8e9e.bundle.js",
     "/manifest.json",
-    "/images/other/cust-review-profile.jpg",
     "/images/heros/hero-image-large.jpg",
     "/images/heros/hero-image-small.jpg",
     "/images/icons/android-chrome-72x72.png",
@@ -18,6 +17,7 @@ var serviceWorkerOption = {
     "/images/icons/anzresto-icon-96x96.png",
     "/images/icons/favicon-16x16.png",
     "/images/icons/favicon-32x32.png",
+    "/images/other/cust-review-profile.jpg",
     "/index.html"
   ]
 };
